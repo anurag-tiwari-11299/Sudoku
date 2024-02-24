@@ -28,5 +28,6 @@
 <h2>Pictures</h2>
 <br>
 <ul>
-  <li></li>
+  <li>https://github.com/anurag-tiwari-11299/Sudoku/assets/104429682/94d855dd-10f5-47ae-ab66-c3546e4c1fa8</li>
+  <li>https://github.com/anurag-tiwari-11299/Sudoku/assets/104429682/b811b315-cd12-46c9-b773-cbeb90fc85f5</li>
 </ul>
