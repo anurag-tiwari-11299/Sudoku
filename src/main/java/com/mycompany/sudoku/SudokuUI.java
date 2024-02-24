@@ -5,7 +5,6 @@
 package com.mycompany.sudoku;
 // @author anurag tiwari
 
-import java.awt.Color;
 import static java.awt.Color.black;
 import static java.awt.Color.red;
 import static java.awt.Color.white;
